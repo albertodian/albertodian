@@ -5,6 +5,7 @@
 ## 🔧 Skills
 - **Programming Languages**: Python, C++, Java, Dart, C#, HTML, CSS, SQL
 - **Frameworks & Tools**: TensorFlow, PyTorch, OpenCV
+- **Softwares**: ROS, MATLAB, Maple
 - **Soft Skills**: Teamwork, Leadership, Business Development, Pitching
 - **Hard Skills**: Content Creation, Graphics (Adobe), Web/App Development
 

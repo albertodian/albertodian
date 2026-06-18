@@ -1,16 +1,8 @@
-# Alberto Dian
+# 👋 Hi, I'm Alberto Dian
 
-👋 Hi! I'm Alberto Dian, a Master’s student in Robotics and Artificial Intelligence at the University of Trento and Aalto University through the EIT Digital Master School. I’m passionate about Artificial Intelligence and Computer Vision, with hands-on experience in Machine Learning, Deep Learning, and Computer Vision techniques. 
+I'm an **AI & Software Engineer** with a background in **Robotics and Artificial Intelligence**, currently completing my Master’s degree at the **University of Trento**, **Aalto University**, and **EIT Digital Master School**.
 
-## 🔧 Skills
-- **Programming Languages**: Python, C++, Java, Dart, C#, HTML, CSS, SQL
-- **Frameworks & Tools**: TensorFlow, PyTorch, OpenCV
-- **Softwares**: ROS2, MATLAB, Maple
-- **Soft Skills**: Teamwork, Leadership, Business Development, Pitching
-- **Hard Skills**: Content Creation, Graphics (Adobe), Web/App Development
+I build intelligent software systems, from **AI and Computer Vision solutions** to **full-stack web and mobile applications**.  
+I'm also the founder of **Tuafesta.it**, a startup focused on simplifying event and party organization, and I work as a **freelance software developer**, helping businesses turn ideas into scalable digital products.
 
-## 🎓 Education
-- **Master’s in Robotics and AI**: University of Trento, Aalto University, EIT Digital (2023 - Present)
-- **Bachelor’s in Computer, Communications, and Electronic Engineering**: University of Trento (2020 - 2023)
-
-I'm always looking for new challenges and opportunities in AI, Computer Vision, and Robotics. Feel free to reach out or explore my projects here!
+I enjoy working at the intersection of **AI, robotics, product development, and entrepreneurship**.
